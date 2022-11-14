@@ -6,7 +6,7 @@ For the Freedom project tool I have been thinking which tool I should pick but t
 
 #### What I am going to make with it
 
-Probably a 2d parkour game or a platformer game becasue becasue I play a lot of parkour and I want to try it out myself. So how it work is w
+Probably a 2d parkour game or a platformer game becasue becasue I play a lot of parkour and I want to try it out myself. So how it work is you have to parkour to go to other stages and every level is getting harder and harder. Also maybe there will be a part that there will be something chaseing you 
 [Next](entry02.md)
 
 [Home](../README.md)
