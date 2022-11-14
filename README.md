@@ -2,10 +2,10 @@
 by Alan Li
 
 ## Context
-The "Freedom Project" for SEP11 is all about Javascipt. The purpose of this blog is to .
+The "Freedom Project" for SEP11 is all about Javascipt. The purpose of this blog is to process learning of javascipt.
 
 ## Content
-For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
+For my project, I am will be making a 2d parkour game by using Kaboom. This blog will walk through my process of independently studying Kaboom in order to make 2d parkour game .
 
 ## Links
 
