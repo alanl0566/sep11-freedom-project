@@ -1,7 +1,7 @@
 # Entry 1
 ##### 11/9/2022
 
-For Freedom project tool I have been thinking which tool I should pick but there's alot I want to try but I only can pick one and the only one I can stick with like a game engine. `Kaboom`, I first pick `Three.js` because you can make animation wedpage but I don't know what I can made it with.
+For the Freedom project tool I have been thinking which tool I should pick but there's a lot I want to try but I can only pick one and the only one I can stick with are a game engine. `Kaboom`, I first picked `Three.js` because you can make animation web page but I don't know what I can make 
 
 [Next](entry02.md)
 
