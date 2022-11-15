@@ -20,10 +20,11 @@ Playground is to show you the game you can make with using kaboom
 
 [Kaboom.Js PlayGround](https://kaboomjs.com/play?demo=platformer)
 
+`Plan the most promising solution` then start the `Mvp` and after that you can put things to make it better.
+
+`How to learn` is a skill to define on your own like tinker a tool or finding the error.
+
 [Next](entry02.md)
 
 [Home](../README.md)
 
-`Plan the most promising solution` then start the `Mvp` and after that you can put things to make it better.
-
-`How to learn` is a skill to define on your own like tinker a tool or finding the error.
