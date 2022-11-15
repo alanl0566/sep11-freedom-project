@@ -13,7 +13,7 @@ The Official website of Kaboom
 How to setup Kaboom and teaching the basics.
 [Kaboom.Js Tutorial](https://kaboomjs.com/doc/intro)
 
-[Kaboom.Js Tutorial](https://kaboomjs.com/doc/intro)
+[Kaboom.Js PlayGround](https://kaboomjs.com/play?demo=platformer)
 
 [Next](entry02.md)
 
