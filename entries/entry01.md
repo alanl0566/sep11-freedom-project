@@ -23,3 +23,5 @@ Playground is to show you the game you can make with using kaboom
 [Next](entry02.md)
 
 [Home](../README.md)
+
+Research the problem    
