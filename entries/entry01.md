@@ -24,4 +24,5 @@ Playground is to show you the game you can make with using kaboom
 
 [Home](../README.md)
 
-Research the problem    
+`Plan the most promising solution` then start the `Mvp` and after that you can put things to make it better.
+
