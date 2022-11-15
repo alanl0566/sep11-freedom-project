@@ -8,10 +8,12 @@ For the Freedom project tool I have been thinking which tool I should pick but t
 
 Probably a 2d parkour game or a platformer game because I play a lot of parkour and I want to try it out myself. So how it work is you have to parkour to go to other stages and every level is getting harder and harder. Also maybe there will be a part that there will be something chasing you. I'm still not yet confirm what to be in the game yet.
 
-The office
+The Official website of Kaboom
 [Kaboom.Js](https://kaboomjs.com/)
+How to setup Kaboom and teaching the basics.
+[Kaboom.Js Tutorial](https://kaboomjs.com/doc/intro)
 
-[Kaboom.Js](https://kaboomjs.com/doc/intro)
+[Kaboom.Js Tutorial](https://kaboomjs.com/doc/intro)
 
 [Next](entry02.md)
 
