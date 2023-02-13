@@ -8,7 +8,14 @@ I learn how to make my Sprite apper in my screen becuase you can't get image fro
 [Kaboom Github](https://github.com/replit/kaboom)
 So I made my Sprite apper on screen and didn't apper before because I didn't connect it to the kaboom files and it took me a while to figue out the problem to slove it. Now my Sprite is in the position of 80, 40. By using `pos(80, 40)` it will made my Sprite apper in the screen of x 80 and y 40. The problem is I don't have a floor or a ground to help it not keep following because mine keep falling everytime I restart.
 ```JS
-
+add([
+    rect(width(), 48),
+    pos(0, height() - 48),
+    outline(4),
+    area(),
+    solid(),
+    color(127, 200, 255),
+])
 ```
 
 
