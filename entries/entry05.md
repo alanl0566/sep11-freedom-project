@@ -63,6 +63,8 @@ const blocks = {
   ],
 }
 ```
+
+I learn making a platformer game using this video
 [Previous](entry04.md) | [Next](entry06.md)
 
 [Home](../README.md)
