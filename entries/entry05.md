@@ -3,7 +3,7 @@
 
 ### Previous
 I got a problem with my 'IDE' and some of the kaboom code was not working in the IDE so I have to change IDE to 'Replit'.
-Replit has a lot of replit and they already have some tutorial code for us to review and I thinks is pretty useful. After I move my code to replit, me and my parther's code for creating the game we start learning to make a platformer game
+Replit has a lot of replit and they already have some tutorial code for us to review and I thinks is pretty useful. After I move my code to replit, me and my parther. We start learning to make our platformer game.
 
 ```js
     import kaboom from "kaboom"
