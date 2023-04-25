@@ -30,7 +30,17 @@ Replit has a lot of replit and they already have some tutorial code for us to re
     // burp on "b"
     onKeyPress("b", burp)
 ### context
-Me and my parther we are been learning our tool so that we can make our game. What I Recently made is that I was trying to add scene to my game so it can feel a little bit like a real game. A scene is when u start the game and it tells you the detail or story about the game. Also we can add a scene were when a sprite 
+Me and my parther we are been learning our tool so that we can make our game. What I Recently made is that I was trying to add scene to my game so it can feel a little bit like a real game. A scene is when u start the game and it tells you the detail or story about the game. Also we can add a scene when a sprite collide with a enemy and it goes to a screen says u lose.
+
+```JS
+    scene('lose', () => {
+    add([
+        text('you lose'),
+        origin('center'),
+        pos(width() / 2, height() / 2)
+    ])
+    })
+```
 
 [Previous](entry04.md) | [Next](entry06.md)
 
