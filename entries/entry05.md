@@ -2,7 +2,8 @@
 ##### 4/23/2023
 
 ### Previous
-I got a problem with my 'IDE' and some of the kaboom code was not working in the IDE so I have to change IDE to 'replit'
+I got a problem with my 'IDE' and some of the kaboom code was not working in the IDE so I have to change IDE to 'replit'.
+
 ### context
 
 
