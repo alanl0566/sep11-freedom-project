@@ -41,7 +41,7 @@ Me and my parther we are been learning our tool so that we can make our game. Wh
     ])
     })
 ```
-
+In addition I also add a few thing to 
 [Previous](entry04.md) | [Next](entry06.md)
 
 [Home](../README.md)
