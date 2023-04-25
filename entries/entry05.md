@@ -1,7 +1,10 @@
 # Entry 5
-##### X/X/XX
+##### 4/23/2023
 
-Text
+### Previous
+I got a problem with my 'IDE' and some of the kaboom code was not working in the IDE so I have to change IDE to 'replit'
+### context
+
 
 [Previous](entry04.md) | [Next](entry06.md)
 
