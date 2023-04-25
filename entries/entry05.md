@@ -41,15 +41,15 @@ Me and my parther we are been learning our tool so that we can make our game. Wh
     ])
     })
 ```
-In addition I also add a few thing to my game like adding a floor using object or adding a enemy.
+In addition I also add a few thing to my game like adding a floor using object or adding a enemy. (A sprite can be a object or it can move)
 ```Js
 const blocks = {
-  width: 64,
+  width: 64,        //height and width of the sprite
   height: 64,
 
   "=": () => [
     sprite('grass'),
-    'block',
+    'block',       // blocks
     area(),
     solid(),
   ],
@@ -57,7 +57,7 @@ const blocks = {
    "^": () => [
     sprite('troll'),
     'troll',
-    'enemy',
+    'enemy',      //enemy
     area(),
     scale(4),
   ],
