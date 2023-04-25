@@ -41,7 +41,28 @@ Me and my parther we are been learning our tool so that we can make our game. Wh
     ])
     })
 ```
-In addition I also add a few thing to my game like adding a objects like a black
+In addition I also add a few thing to my game like adding a floor using object or adding a enemy.
+```Js
+const blocks = {
+  width: 64,
+  height: 64,
+
+  "=": () => [
+    sprite('grass'),
+    'block',
+    area(),
+    solid(),
+  ],
+
+   "^": () => [
+    sprite('troll'),
+    'troll',
+    'enemy',
+    area(),
+    scale(4),
+  ],
+}
+```
 [Previous](entry04.md) | [Next](entry06.md)
 
 [Home](../README.md)
