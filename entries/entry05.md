@@ -30,7 +30,7 @@ Replit has a lot of replit and they already have some tutorial code for us to re
     // burp on "b"
     onKeyPress("b", burp)
 ### context
-Me and my parther we are been learning our tool so that we can make our game using kaboom. What I Recently
+Me and my parther we are been learning our tool so that we can make our game. What I Recently
 
 [Previous](entry04.md) | [Next](entry06.md)
 
