@@ -3,7 +3,8 @@
 
 ### Previous
 I got a problem with my 'IDE' and some of the kaboom code was not working in the IDE so I have to change IDE to 'Replit'.
-Replit has a lot of replit and they already have some tutorial code for us to review and I thinks is pretty useful
+Replit has a lot of replit and they already have some tutorial code for us to review and I thinks is pretty useful.
+image.png
 ### context
 
 
