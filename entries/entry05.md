@@ -34,14 +34,14 @@ Me and my parther we are been learning our tool so that we can make our game. Wh
 
 ```JS
     scene('lose', () => {
-    add([
-        text('you lose'),
-        origin('center'),
+    add([                         //
+        text('you lose'),        // text in the middle
+        origin('center'),       //
         pos(width() / 2, height() / 2)
     ])
     })
 ```
-In addition I also add a few thing to 
+In addition I also add a few thing to my game like adding a objects like a black
 [Previous](entry04.md) | [Next](entry06.md)
 
 [Home](../README.md)
