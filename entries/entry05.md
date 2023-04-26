@@ -67,6 +67,7 @@ const blocks = {
 I learn making a platformer game using this video (https://youtu.be/37rASpfnCCM)
 
 How to Google: is because it helps me find the problem in my code and I can add new thing to my game by searchingg on google and kaboom.
+
 [Previous](entry04.md) | [Next](entry06.md)
 
 [Home](../README.md)
