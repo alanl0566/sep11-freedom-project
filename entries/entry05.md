@@ -65,7 +65,8 @@ const blocks = {
 ```
 
 I learn making a platformer game using this video (https://youtu.be/37rASpfnCCM)
-How to read
+
+How to Google: is because it helps me find way a
 [Previous](entry04.md) | [Next](entry06.md)
 
 [Home](../README.md)
