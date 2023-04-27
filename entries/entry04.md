@@ -46,6 +46,7 @@ map = [
 ]
 ```
 
+My partner Selina also add something to make the sprite move.
 
 [Previous](entry03.md) | [Next](entry05.md)
 
