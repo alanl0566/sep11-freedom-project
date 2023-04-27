@@ -9,8 +9,11 @@ Mvp is call Minimum Viable Product, and is very important for adding the main th
 I have to move all my code to replit because the game won't apper. Moving to replit is a good things because it gives me everything I need to complete my game.
 
 *You can make your own design
+
 *Have beginning code
+
 *Tools
+
 *Webview
 
 while adding mvp to my mvp plan I add: a way to how the level and the design to my game looks like.
