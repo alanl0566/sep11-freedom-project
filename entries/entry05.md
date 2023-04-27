@@ -32,7 +32,7 @@ Replit has a lot of replit and they already have some tutorial code for us to re
 
 ```
 
-### context
+### Context
 Me and my parther we are been learning our tool so that we can make our game. What I Recently made is that I was trying to add scene to my game so it can feel a little bit like a real game. A scene is when u start the game and it tells you the detail or story about the game. Also we can add a scene when a sprite collide with a enemy and it goes to a screen say "You lose".
 
 ```JS
