@@ -48,6 +48,27 @@ map = [
 
 My partner Selina also add something to make the sprite move.
 
+```JS
+        onKeyDown("right", () => {
+        mc.move(-SPEED, 0)
+        })
+
+        onKeyDown("left", () => {
+        mc.move(SPEED, 0)
+        })
+
+        onKeyDown("down", () => {
+        mc.move(0, -SPEED)
+        })
+
+        onKeyDown("up", () => {
+        mc.move(0, SPEED)
+        })
+
+        I redesign a little bit on the code
+        I make it reverse control so when you press the left key it move to the right and if You press the right key it moves to the left keys.
+```
+
 [Previous](entry03.md) | [Next](entry05.md)
 
 [Home](../README.md)
