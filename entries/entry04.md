@@ -69,7 +69,7 @@ My partner Selina also add something to make the sprite move.
         I make it reverse control so when you press the left key it move to the right and if You press the right key it moves to the left keys.
 ```
 
-      Engineering Design Process: `Improve as needed`
+      Engineering Design Process: `Improve as needed` Improving my game little by little and add new things little by little.
       Skills: `Organization` manage my code very clearly and have put comments to know what the code does.
 
 
