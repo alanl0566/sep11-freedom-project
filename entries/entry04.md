@@ -10,7 +10,10 @@ I have to move all my code to replit because the game won't apper. Moving to rep
 
 *You can make your own design
 *Have beginning code
+*Tools
+*Webview
 
+while adding mvp to my mvp plan
 
 
 [Previous](entry03.md) | [Next](entry05.md)
