@@ -13,7 +13,38 @@ I have to move all my code to replit because the game won't apper. Moving to rep
 *Tools
 *Webview
 
-while adding mvp to my mvp plan
+while adding mvp to my mvp plan I add: a way to how the level and the design to my game looks like.
+
+```JS
+map = [
+  "                               ",
+  "                               ",
+  "                               ",
+  "           ^         ^         ",
+  "                  ===          ",
+  "        ===                     ",
+  "           ^           ^       ",
+  "                               ",
+  "========   =======   ==========",
+
+  = - is the blocks
+
+  ^ - is the enemys
+
+
+    Inside the `"   ",` is the object and the gameplay.
+
+  "                               ",
+  "                               ",
+  "                               ",
+  "                               ",
+  "                               ",
+  "                               ",
+  "                               ",
+  "                               ",
+  "                               ",
+]
+```
 
 
 [Previous](entry03.md) | [Next](entry05.md)
