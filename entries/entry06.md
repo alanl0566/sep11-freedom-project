@@ -4,6 +4,18 @@
 ### Progressing
 While still working on my mvp and beyond mvp I have add a lot of things recently from adding adding more object to the game and texts label for my Mvp and for my Beyond Mvp I add a portal to the second map, creating a second level, working object and adding more commanding to the character.
 
+Mvp
+```
+const mc = add([
+	sprite("stickman"),
+	pos(2550, 200),
+	area(),
+  body(),
+  scale(5),
+])
+
+```
+This is the character that will be moving around and 
 
 
 Beyond Mvp
