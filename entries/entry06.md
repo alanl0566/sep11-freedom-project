@@ -6,6 +6,53 @@ While still working on my mvp and beyond mvp I have add a lot of things recently
 
 
 
+Beyond Mvp
+```JS
+mc.collides('portal', (p) => {
+    p.destroy()
+    level_id++
+    if(level_id < maps.length){
+     go('game', {level_id: level_id})
+    }
+    else{
+     go('win')
+    }
+  })
+
+```
+This code shows that if the character collides with the portal it will go to the next level or else it goes win.
+
+```JS
+[
+    "                   -   -            -      ",
+    "                             -      -      ",
+    "                                           ",
+    "                                           ",
+    "       ====                                ",
+    "            ^                              ",
+    "              ==                           ",
+    "                 =          ^              ",
+    "                   =       ====            ",
+    "                     =                     ",
+    "                                =          ",
+    "                                           ",
+    "                                   ==      ",
+    "                                    ====== ",
+    "                                           ",
+    "                                           ",
+    "                                           ",
+    "                                           ",
+    "                                           ",
+    "                                           ",
+    "                                         * ",
+
+],
+
+```
+
+23 to 43 lines of code shows it is a working map and my second map to my game and those are Syntax for adding object like a block to the gound.
+
+
 [Previous](entry05.md) | [Next](entry07.md)
 
 [Home](../README.md)
