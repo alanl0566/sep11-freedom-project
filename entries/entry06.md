@@ -1,7 +1,7 @@
 # Entry 6
 ##### 5/29/23
 
-Text
+### Progressing
 
 [Previous](entry05.md) | [Next](entry07.md)
 
