@@ -15,7 +15,7 @@ const mc = add([
 ])
 
 ```
-This is the character that will be moving around and 
+This is the character that will be moving around and
 
 
 Beyond Mvp
