@@ -64,12 +64,10 @@ This code shows that if the character collides with the portal it will go to the
 23 to 43 lines of code show it is a working map and my second map to my game and those are Syntax for adding objects like a block to the ground.
 
 ### Before Expo and In-Class presentation
-
 After finishing my MVP and Beyond MVP, I finish my game. Also starting to prepare for the Expo elevator pitch and the In-class presentation. So I start getting ready to present and making my slide for the In-class presentation.
 
 ### During the Expo and In-Class presentation
-
-During the In-class presentation
+During the In-class presentation, I was really nervous and talked really fast but 
 
 ### Expo elevator pitch takeaways
 
