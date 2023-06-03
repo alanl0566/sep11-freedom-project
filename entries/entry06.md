@@ -69,7 +69,7 @@ After finishing my MVP and Beyond MVP, I finish my game. Also starting to prepar
 ### During the Expo and In-Class presentation
 During the In-class presentation, I was really nervous and talked really fast but the presentation goes really well and I finish my slide just in time for the presentation in class. I present two times, One time I was presenting myself and the second time I presentation with My parther Selina.
 
-During the Expo I was really nerouus to seeing so many people is coming and I don't even have sentence to begin the Conversation
+During the Expo I was really nerous to seeing so many people is coming and I don't even have sentence to begin the Conversation about my products. So I start to practice my line and I start not to get nervous and remember my lines. A lot of people was coming to see my products and most of them say that my product and my speaking was very good, Also my parther Selina was also there to help me during the Expo and the Presentation.
 
 ### Expo elevator pitch takeaways
 
