@@ -65,7 +65,11 @@ This code shows that if the character collides with the portal it will go to the
 
 ### Before Expo and In-Class presentation
 
-After finishing my MVP and Beyond MVP, I finish my game. Also starting to prepare for the Expo elevator pitch and the In-class presentation. So I start getting ready to present and making my slide for the In-class presentation 
+After finishing my MVP and Beyond MVP, I finish my game. Also starting to prepare for the Expo elevator pitch and the In-class presentation. So I start getting ready to present and making my slide for the In-class presentation.
+
+### During the Expo and In-Class presentation
+
+During the In-class presentation
 
 ### Expo elevator pitch takeaways
 
