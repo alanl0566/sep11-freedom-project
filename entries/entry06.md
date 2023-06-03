@@ -61,8 +61,7 @@ This code shows that if the character collides with the portal it will go to the
 
 ```
 
-23 to 43 lines of code shows it is a working map and my second map to my game and those are Syntax for adding object like a block to the gound.
-After finishing my MVP and Beyond MVP, I finish my game. Also starting to
+23 to 43 lines of code show it is a working map and my second map to my game and those are Syntax for adding objects like a block to the ground. After finishing my MVP and Beyond MVP, I finish my game. Also starting to prepare for the Expo elevator pitch and the In-class presentation. so I start getting ready
 
 ### Expo elevator pitch takeaways
 
