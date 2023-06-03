@@ -63,6 +63,9 @@ This code shows that if the character collides with the portal it will go to the
 
 23 to 43 lines of code shows it is a working map and my second map to my game and those are Syntax for adding object like a block to the gound.
 
+### Expo elevator pitch takeaways
+
+### in-class presentation takeaways
 
 [Previous](entry05.md) | [Next](entry07.md)
 
