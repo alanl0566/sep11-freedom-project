@@ -82,6 +82,10 @@ During the Expo I was really nerous to seeing so many people is coming and I don
 * Better Hook (a little Similar of the my purducts or the things I'm doing )
 
 ### Skills, EDP, and Professionalism
+
+Engineering Design Process = Communicate the results, communicating with people helps me know more about making something better
+
+Communication: 
 [Previous](entry05.md) | [Next](entry07.md)
 
 [Home](../README.md)
