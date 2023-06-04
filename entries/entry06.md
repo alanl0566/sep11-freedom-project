@@ -74,14 +74,14 @@ During the Expo I was really nerous to seeing so many people is coming and I don
 ### Expo elevator pitch takeaways
 * Explain more
 * More eye contact with audience
-* Present not too slow and not too fast 
+* Present not too slow and not too fast
 
 ### In-class presentation takeaways
 * Talk loud and clearly
 * More Eye contact wuth audience
 * Better Hook (a little Similar of the my purducts or the things I'm doing )
 
-
+### Skills, EDP, and Professionalism
 [Previous](entry05.md) | [Next](entry07.md)
 
 [Home](../README.md)
