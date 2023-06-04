@@ -73,8 +73,8 @@ During the Expo I was really nerous to seeing so many people is coming and I don
 
 ### Expo elevator pitch takeaways
 * Talk loud and clearly
-*
-*
+* Eye contact wuth audience
+* Better Hook (a little simply)
 ### In-class presentation takeaways
 *
 *
