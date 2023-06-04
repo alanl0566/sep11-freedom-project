@@ -76,9 +76,6 @@ During the Expo I was really nerous to seeing so many people is coming and I don
 *
 *
 ### In-class presentation takeaways
-*
-*
-*
 * Talk loud and clearly
 * Eye contact wuth audience
 * Better Hook (a little Similar of the my purducts or the things I'm doing )
