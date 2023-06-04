@@ -83,9 +83,10 @@ During the Expo I was really nerous to seeing so many people is coming and I don
 
 ### Skills and EDP
 
-Engineering Design Process = Communicate the results, communicating with people helps me know more about making something better
+Engineering Design Process = Communicate the results, communicating with people helps me know more about making something better.
 
-Communication: Communication In-class presentation and Expo elevator pitch helps me learns and I can learn from the takeaways
+Communication: Communication In-class presentation and Expo elevator pitch helps me learns and I can learn from the takeaways.
+
 [Previous](entry05.md) | [Next](entry07.md)
 
 [Home](../README.md)
