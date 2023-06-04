@@ -72,8 +72,8 @@ During the In-class presentation, I was really nervous and talked really fast bu
 During the Expo I was really nerous to seeing so many people is coming and I don't even have sentence to begin the Conversation about my products. So I start to practice my line and I start not to get nervous and remember my lines. A lot of people was coming to see my products and most of them say that my product and my speaking was very good, Also my parther Selina was also there to help me during the Expo and the Presentation.
 
 ### Expo elevator pitch takeaways
-*
-*  More eye contact wuth audience
+* Explain Better 
+* More eye contact wuth audience
 *
 ### In-class presentation takeaways
 * Talk loud and clearly
